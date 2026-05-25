@@ -13,12 +13,12 @@ TimeSkip is a native Spicetify extension that gives you precise control over you
 
 Ensure you have [Spicetify](https://spicetify.app) installed on your system.
 
-1. Download `preview30.js` and move it to your Spicetify Extensions directory:
+1. Download `timeskip.js` and move it to your Spicetify Extensions directory:
    - **Windows:** `%userprofile%\.spicetify\Extensions\`
    - **macOS/Linux:** `~/.spicetify/Extensions/`
 2. Open your terminal or PowerShell and run the configuration commands:
    ```bash
-   spicetify config extensions preview30.js
+   spicetify config extensions timeskip.js
    spicetify apply
    ```
 
