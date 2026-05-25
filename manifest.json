@@ -2,7 +2,7 @@
   {
     "name": "TimeSkip",
     "description": "Adds a topbar control button to automatically play for a set duration of any song.",
-    "preview": "",
+    "preview": "image.png",
     "main": "timeskip.js",
     "readme": "README.md"
   }
