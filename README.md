@@ -1,7 +1,7 @@
 # ⏱️ TimeSkip
 
 <p align="center">
-  <img src="image.png" alt="TimeSkip Interface Preview" width="450">
+  <img src="preview.png" alt="TimeSkip Interface Preview" width="450">
 </p>
 
 TimeSkip is a native Spicetify extension that gives you precise control over your playlist curation and music discovery. It adds a customizable control button directly to your upper topbar layout next to the marketplace cart icon, allowing you to sample and skip tracks automatically after a specific time duration threshold.
